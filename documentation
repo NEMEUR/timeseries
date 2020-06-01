@@ -4,4 +4,6 @@ Pour l'installation de l'api:
 terminal: Pip install investpy 
 Notebook: import investpy
 Documentation sur investpy: https://readthedocs.org/projects/investpy/downloads/pdf/latest/
-Documentation sur la syntaxe des commandes des timeseries https://medium.com/france-school-of-ai/travailler-facilement-avec-les-dates-sur-pandas-14b14b2ea51
+Documentation sur la syntaxe des commandes des timeseries:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html
+https://medium.com/france-school-of-ai/travailler-facilement-avec-les-dates-sur-pandas-14b14b2ea51
